@@ -91,4 +91,7 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 1000px) {
+  .weather-picture {
+    margin-top: 18px;
+  }
 }
